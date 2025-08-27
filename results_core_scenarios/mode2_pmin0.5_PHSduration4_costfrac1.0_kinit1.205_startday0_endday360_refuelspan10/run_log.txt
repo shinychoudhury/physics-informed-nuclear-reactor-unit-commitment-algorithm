@@ -1,0 +1,4694 @@
+
+        Day: 0
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:47:18
+        
+------------------------------------------------------------
+
+        Day: 1
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:47:48
+        
+------------------------------------------------------------
+
+        Day: 2
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:48:01
+        
+------------------------------------------------------------
+
+        Day: 3
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:48:11
+        
+------------------------------------------------------------
+
+        Day: 4
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:48:23
+        
+------------------------------------------------------------
+
+        Day: 5
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:48:39
+        
+------------------------------------------------------------
+
+        Day: 6
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:50:12
+        
+------------------------------------------------------------
+
+        Day: 7
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:50:25
+        
+------------------------------------------------------------
+
+        Day: 8
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:50:36
+        
+------------------------------------------------------------
+
+        Day: 9
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:51:03
+        
+------------------------------------------------------------
+
+        Day: 10
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:51:14
+        
+------------------------------------------------------------
+
+        Day: 11
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:51:25
+        
+------------------------------------------------------------
+
+        Day: 12
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:51:39
+        
+------------------------------------------------------------
+
+        Day: 13
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:51:50
+        
+------------------------------------------------------------
+
+        Day: 14
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:52:00
+        
+------------------------------------------------------------
+
+        Day: 15
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:52:10
+        
+------------------------------------------------------------
+
+        Day: 16
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:52:21
+        
+------------------------------------------------------------
+
+        Day: 17
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:52:36
+        
+------------------------------------------------------------
+
+        Day: 18
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:52:52
+        
+------------------------------------------------------------
+
+        Day: 19
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:53:06
+        
+------------------------------------------------------------
+
+        Day: 20
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:53:25
+        
+------------------------------------------------------------
+
+        Day: 21
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:53:37
+        
+------------------------------------------------------------
+
+        Day: 22
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:53:49
+        
+------------------------------------------------------------
+
+        Day: 23
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:54:05
+        
+------------------------------------------------------------
+
+        Day: 24
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:54:24
+        
+------------------------------------------------------------
+
+        Day: 25
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:54:38
+        
+------------------------------------------------------------
+
+        Day: 26
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:54:50
+        
+------------------------------------------------------------
+
+        Day: 27
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:55:05
+        
+------------------------------------------------------------
+
+        Day: 28
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:55:17
+        
+------------------------------------------------------------
+
+        Day: 29
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:55:29
+        
+------------------------------------------------------------
+
+        Day: 30
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:55:42
+        
+------------------------------------------------------------
+
+        Day: 31
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:56:01
+        
+------------------------------------------------------------
+
+        Day: 32
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:56:14
+        
+------------------------------------------------------------
+
+        Day: 33
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-26 23:56:26
+        
+------------------------------------------------------------
+
+        Day: 34
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:13:16
+        
+------------------------------------------------------------
+
+        Day: 35
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:13:31
+        
+------------------------------------------------------------
+
+        Day: 36
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:13:44
+        
+------------------------------------------------------------
+
+        Day: 37
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:13:59
+        
+------------------------------------------------------------
+
+        Day: 38
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:14:15
+        
+------------------------------------------------------------
+
+        Day: 39
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:14:26
+        
+------------------------------------------------------------
+
+        Day: 40
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:14:43
+        
+------------------------------------------------------------
+
+        Day: 41
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:14:58
+        
+------------------------------------------------------------
+
+        Day: 42
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:15:10
+        
+------------------------------------------------------------
+
+        Day: 43
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:15:22
+        
+------------------------------------------------------------
+
+        Day: 44
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:15:37
+        
+------------------------------------------------------------
+
+        Day: 45
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:15:54
+        
+------------------------------------------------------------
+
+        Day: 46
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:16:06
+        
+------------------------------------------------------------
+
+        Day: 47
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:16:21
+        
+------------------------------------------------------------
+
+        Day: 48
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:16:32
+        
+------------------------------------------------------------
+
+        Day: 49
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:16:48
+        
+------------------------------------------------------------
+
+        Day: 50
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:17:53
+        
+------------------------------------------------------------
+
+        Day: 51
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:18:05
+        
+------------------------------------------------------------
+
+        Day: 52
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:18:16
+        
+------------------------------------------------------------
+
+        Day: 53
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:18:27
+        
+------------------------------------------------------------
+
+        Day: 54
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:18:42
+        
+------------------------------------------------------------
+
+        Day: 55
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:18:53
+        
+------------------------------------------------------------
+
+        Day: 56
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:19:12
+        
+------------------------------------------------------------
+
+        Day: 57
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:19:30
+        
+------------------------------------------------------------
+
+        Day: 58
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:19:42
+        
+------------------------------------------------------------
+
+        Day: 59
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:19:53
+        
+------------------------------------------------------------
+
+        Day: 60
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:20:05
+        
+------------------------------------------------------------
+
+        Day: 61
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:20:15
+        
+------------------------------------------------------------
+
+        Day: 62
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:20:26
+        
+------------------------------------------------------------
+
+        Day: 63
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:20:37
+        
+------------------------------------------------------------
+
+        Day: 64
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:20:48
+        
+------------------------------------------------------------
+
+        Day: 65
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:20:59
+        
+------------------------------------------------------------
+
+        Day: 66
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:21:11
+        
+------------------------------------------------------------
+
+        Day: 67
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:21:22
+        
+------------------------------------------------------------
+
+        Day: 68
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:21:33
+        
+------------------------------------------------------------
+
+        Day: 69
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:21:44
+        
+------------------------------------------------------------
+
+        Day: 70
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:21:55
+        
+------------------------------------------------------------
+
+        Day: 71
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:22:07
+        
+------------------------------------------------------------
+
+        Day: 72
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:22:21
+        
+------------------------------------------------------------
+
+        Day: 73
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:22:32
+        
+------------------------------------------------------------
+
+        Day: 74
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:22:46
+        
+------------------------------------------------------------
+
+        Day: 75
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:22:56
+        
+------------------------------------------------------------
+
+        Day: 76
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:23:07
+        
+------------------------------------------------------------
+
+        Day: 77
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:23:18
+        
+------------------------------------------------------------
+
+        Day: 78
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:23:29
+        
+------------------------------------------------------------
+
+        Day: 79
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:23:39
+        
+------------------------------------------------------------
+
+        Day: 80
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:23:51
+        
+------------------------------------------------------------
+
+        Day: 81
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:40:40
+        
+------------------------------------------------------------
+
+        Day: 82
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:40:51
+        
+------------------------------------------------------------
+
+        Day: 83
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:57:41
+        
+------------------------------------------------------------
+
+        Day: 84
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:57:53
+        
+------------------------------------------------------------
+
+        Day: 85
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:58:04
+        
+------------------------------------------------------------
+
+        Day: 86
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:58:16
+        
+------------------------------------------------------------
+
+        Day: 87
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:58:28
+        
+------------------------------------------------------------
+
+        Day: 88
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:58:45
+        
+------------------------------------------------------------
+
+        Day: 89
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:59:00
+        
+------------------------------------------------------------
+
+        Day: 90
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:59:15
+        
+------------------------------------------------------------
+
+        Day: 91
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:59:26
+        
+------------------------------------------------------------
+
+        Day: 92
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:59:37
+        
+------------------------------------------------------------
+
+        Day: 93
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 00:59:51
+        
+------------------------------------------------------------
+
+        Day: 94
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:00:02
+        
+------------------------------------------------------------
+
+        Day: 95
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:00:14
+        
+------------------------------------------------------------
+
+        Day: 96
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:00:30
+        
+------------------------------------------------------------
+
+        Day: 97
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:10:17
+        
+------------------------------------------------------------
+
+        Day: 98
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:10:29
+        
+------------------------------------------------------------
+
+        Day: 99
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:10:53
+        
+------------------------------------------------------------
+
+        Day: 100
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:11:06
+        
+------------------------------------------------------------
+
+        Day: 101
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:11:17
+        
+------------------------------------------------------------
+
+        Day: 102
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:28:07
+        
+------------------------------------------------------------
+
+        Day: 103
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:28:21
+        
+------------------------------------------------------------
+
+        Day: 104
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:28:37
+        
+------------------------------------------------------------
+
+        Day: 105
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:28:49
+        
+------------------------------------------------------------
+
+        Day: 106
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:29:14
+        
+------------------------------------------------------------
+
+        Day: 107
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:29:33
+        
+------------------------------------------------------------
+
+        Day: 108
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:32:14
+        
+------------------------------------------------------------
+
+        Day: 109
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:32:29
+        
+------------------------------------------------------------
+
+        Day: 110
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:49:19
+        
+------------------------------------------------------------
+
+        Day: 111
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:50:53
+        
+------------------------------------------------------------
+
+        Day: 112
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:51:07
+        
+------------------------------------------------------------
+
+        Day: 113
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:51:18
+        
+------------------------------------------------------------
+
+        Day: 114
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:51:33
+        
+------------------------------------------------------------
+
+        Day: 115
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 01:51:46
+        
+------------------------------------------------------------
+
+        Day: 116
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:03:04
+        
+------------------------------------------------------------
+
+        Day: 117
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:03:17
+        
+------------------------------------------------------------
+
+        Day: 118
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:03:28
+        
+------------------------------------------------------------
+
+        Day: 119
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:03:40
+        
+------------------------------------------------------------
+
+        Day: 120
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:04:00
+        
+------------------------------------------------------------
+
+        Day: 121
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:04:25
+        
+------------------------------------------------------------
+
+        Day: 122
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:04:36
+        
+------------------------------------------------------------
+
+        Day: 123
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:04:48
+        
+------------------------------------------------------------
+
+        Day: 124
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:04:59
+        
+------------------------------------------------------------
+
+        Day: 125
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:05:10
+        
+------------------------------------------------------------
+
+        Day: 126
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:05:22
+        
+------------------------------------------------------------
+
+        Day: 127
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:05:33
+        
+------------------------------------------------------------
+
+        Day: 128
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:05:44
+        
+------------------------------------------------------------
+
+        Day: 129
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:05:56
+        
+------------------------------------------------------------
+
+        Day: 130
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:06:07
+        
+------------------------------------------------------------
+
+        Day: 131
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:06:18
+        
+------------------------------------------------------------
+
+        Day: 132
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:06:30
+        
+------------------------------------------------------------
+
+        Day: 133
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:06:41
+        
+------------------------------------------------------------
+
+        Day: 134
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:06:53
+        
+------------------------------------------------------------
+
+        Day: 135
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:07:04
+        
+------------------------------------------------------------
+
+        Day: 136
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:07:16
+        
+------------------------------------------------------------
+
+        Day: 137
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:07:28
+        
+------------------------------------------------------------
+
+        Day: 138
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:07:40
+        
+------------------------------------------------------------
+
+        Day: 139
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:07:51
+        
+------------------------------------------------------------
+
+        Day: 140
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:08:02
+        
+------------------------------------------------------------
+
+        Day: 141
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:08:13
+        
+------------------------------------------------------------
+
+        Day: 142
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:08:27
+        
+------------------------------------------------------------
+
+        Day: 143
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:08:38
+        
+------------------------------------------------------------
+
+        Day: 144
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:08:49
+        
+------------------------------------------------------------
+
+        Day: 145
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:09:01
+        
+------------------------------------------------------------
+
+        Day: 146
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:09:22
+        
+------------------------------------------------------------
+
+        Day: 147
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:09:39
+        
+------------------------------------------------------------
+
+        Day: 148
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:09:53
+        
+------------------------------------------------------------
+
+        Day: 149
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:10:14
+        
+------------------------------------------------------------
+
+        Day: 150
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:10:26
+        
+------------------------------------------------------------
+
+        Day: 151
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:10:42
+        
+------------------------------------------------------------
+
+        Day: 152
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:11:01
+        
+------------------------------------------------------------
+
+        Day: 153
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:11:18
+        
+------------------------------------------------------------
+
+        Day: 154
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:11:34
+        
+------------------------------------------------------------
+
+        Day: 155
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:11:49
+        
+------------------------------------------------------------
+
+        Day: 156
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:12:04
+        
+------------------------------------------------------------
+
+        Day: 157
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:12:23
+        
+------------------------------------------------------------
+
+        Day: 158
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:12:35
+        
+------------------------------------------------------------
+
+        Day: 159
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:12:47
+        
+------------------------------------------------------------
+
+        Day: 160
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:13:01
+        
+------------------------------------------------------------
+
+        Day: 161
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:13:17
+        
+------------------------------------------------------------
+
+        Day: 162
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:13:33
+        
+------------------------------------------------------------
+
+        Day: 163
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:13:48
+        
+------------------------------------------------------------
+
+        Day: 164
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:14:00
+        
+------------------------------------------------------------
+
+        Day: 165
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:14:17
+        
+------------------------------------------------------------
+
+        Day: 166
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:14:30
+        
+------------------------------------------------------------
+
+        Day: 167
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:14:42
+        
+------------------------------------------------------------
+
+        Day: 168
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:14:55
+        
+------------------------------------------------------------
+
+        Day: 169
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:15:06
+        
+------------------------------------------------------------
+
+        Day: 170
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:15:20
+        
+------------------------------------------------------------
+
+        Day: 171
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:15:35
+        
+------------------------------------------------------------
+
+        Day: 172
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:32:26
+        
+------------------------------------------------------------
+
+        Day: 173
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:32:40
+        
+------------------------------------------------------------
+
+        Day: 174
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:32:52
+        
+------------------------------------------------------------
+
+        Day: 175
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:33:03
+        
+------------------------------------------------------------
+
+        Day: 176
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:33:15
+        
+------------------------------------------------------------
+
+        Day: 177
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:33:26
+        
+------------------------------------------------------------
+
+        Day: 178
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:33:37
+        
+------------------------------------------------------------
+
+        Day: 179
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:33:51
+        
+------------------------------------------------------------
+
+        Day: 180
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:34:02
+        
+------------------------------------------------------------
+
+        Day: 181
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:34:14
+        
+------------------------------------------------------------
+
+        Day: 182
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:34:25
+        
+------------------------------------------------------------
+
+        Day: 183
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:34:36
+        
+------------------------------------------------------------
+
+        Day: 184
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:34:48
+        
+------------------------------------------------------------
+
+        Day: 185
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:34:58
+        
+------------------------------------------------------------
+
+        Day: 186
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:35:09
+        
+------------------------------------------------------------
+
+        Day: 187
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:35:28
+        
+------------------------------------------------------------
+
+        Day: 188
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:35:39
+        
+------------------------------------------------------------
+
+        Day: 189
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:35:51
+        
+------------------------------------------------------------
+
+        Day: 190
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:36:03
+        
+------------------------------------------------------------
+
+        Day: 191
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:36:16
+        
+------------------------------------------------------------
+
+        Day: 192
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:36:28
+        
+------------------------------------------------------------
+
+        Day: 193
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:38:01
+        
+------------------------------------------------------------
+
+        Day: 194
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:38:14
+        
+------------------------------------------------------------
+
+        Day: 195
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:38:25
+        
+------------------------------------------------------------
+
+        Day: 196
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:38:36
+        
+------------------------------------------------------------
+
+        Day: 197
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:38:47
+        
+------------------------------------------------------------
+
+        Day: 198
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:38:58
+        
+------------------------------------------------------------
+
+        Day: 199
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:39:09
+        
+------------------------------------------------------------
+
+        Day: 200
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:39:20
+        
+------------------------------------------------------------
+
+        Day: 201
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:39:37
+        
+------------------------------------------------------------
+
+        Day: 202
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:39:48
+        
+------------------------------------------------------------
+
+        Day: 203
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:39:59
+        
+------------------------------------------------------------
+
+        Day: 204
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:40:10
+        
+------------------------------------------------------------
+
+        Day: 205
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:40:21
+        
+------------------------------------------------------------
+
+        Day: 206
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:40:33
+        
+------------------------------------------------------------
+
+        Day: 207
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:40:46
+        
+------------------------------------------------------------
+
+        Day: 208
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:40:58
+        
+------------------------------------------------------------
+
+        Day: 209
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:41:17
+        
+------------------------------------------------------------
+
+        Day: 210
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:41:28
+        
+------------------------------------------------------------
+
+        Day: 211
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:41:43
+        
+------------------------------------------------------------
+
+        Day: 212
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:42:05
+        
+------------------------------------------------------------
+
+        Day: 213
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:42:17
+        
+------------------------------------------------------------
+
+        Day: 214
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 02:59:07
+        
+------------------------------------------------------------
+
+        Day: 215
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 03:15:58
+        
+------------------------------------------------------------
+
+        Day: 216
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 03:16:10
+        
+------------------------------------------------------------
+
+        Day: 217
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 03:16:21
+        
+------------------------------------------------------------
+
+        Day: 218
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 03:16:32
+        
+------------------------------------------------------------
+
+        Day: 219
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 03:16:50
+        
+------------------------------------------------------------
+
+        Day: 220
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 03:17:10
+        
+------------------------------------------------------------
+
+        Day: 221
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 03:17:25
+        
+------------------------------------------------------------
+
+        Day: 222
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 03:17:38
+        
+------------------------------------------------------------
+
+        Day: 223
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 03:17:52
+        
+------------------------------------------------------------
+
+        Day: 224
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 03:18:06
+        
+------------------------------------------------------------
+
+        Day: 225
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 03:29:55
+        
+------------------------------------------------------------
+
+        Day: 226
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 03:30:06
+        
+------------------------------------------------------------
+
+        Day: 227
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 03:30:17
+        
+------------------------------------------------------------
+
+        Day: 228
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 03:30:30
+        
+------------------------------------------------------------
+
+        Day: 229
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 03:30:44
+        
+------------------------------------------------------------
+
+        Day: 230
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 03:30:55
+        
+------------------------------------------------------------
+
+        Day: 231
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 03:31:06
+        
+------------------------------------------------------------
+
+        Day: 232
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 03:31:23
+        
+------------------------------------------------------------
+
+        Day: 233
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 03:31:35
+        
+------------------------------------------------------------
+
+        Day: 234
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 03:31:46
+        
+------------------------------------------------------------
+
+        Day: 235
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 03:48:37
+        
+------------------------------------------------------------
+
+        Day: 236
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:05:28
+        
+------------------------------------------------------------
+
+        Day: 237
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:05:41
+        
+------------------------------------------------------------
+
+        Day: 238
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:22:32
+        
+------------------------------------------------------------
+
+        Day: 239
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:22:45
+        
+------------------------------------------------------------
+
+        Day: 240
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:22:58
+        
+------------------------------------------------------------
+
+        Day: 241
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:23:11
+        
+------------------------------------------------------------
+
+        Day: 242
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:23:26
+        
+------------------------------------------------------------
+
+        Day: 243
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:23:45
+        
+------------------------------------------------------------
+
+        Day: 244
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:24:01
+        
+------------------------------------------------------------
+
+        Day: 245
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:24:16
+        
+------------------------------------------------------------
+
+        Day: 246
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:24:43
+        
+------------------------------------------------------------
+
+        Day: 247
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:25:40
+        
+------------------------------------------------------------
+
+        Day: 248
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:25:59
+        
+------------------------------------------------------------
+
+        Day: 249
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:26:13
+        
+------------------------------------------------------------
+
+        Day: 250
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:26:33
+        
+------------------------------------------------------------
+
+        Day: 251
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:27:30
+        
+------------------------------------------------------------
+
+        Day: 252
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:27:50
+        
+------------------------------------------------------------
+
+        Day: 253
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:28:03
+        
+------------------------------------------------------------
+
+        Day: 254
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:28:16
+        
+------------------------------------------------------------
+
+        Day: 255
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:28:47
+        
+------------------------------------------------------------
+
+        Day: 256
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:29:09
+        
+------------------------------------------------------------
+
+        Day: 257
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:29:23
+        
+------------------------------------------------------------
+
+        Day: 258
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:29:40
+        
+------------------------------------------------------------
+
+        Day: 259
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:29:55
+        
+------------------------------------------------------------
+
+        Day: 260
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:30:20
+        
+------------------------------------------------------------
+
+        Day: 261
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:31:00
+        
+------------------------------------------------------------
+
+        Day: 262
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:31:27
+        
+------------------------------------------------------------
+
+        Day: 263
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:48:18
+        
+------------------------------------------------------------
+
+        Day: 264
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 04:48:37
+        
+------------------------------------------------------------
+
+        Day: 265
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:05:28
+        
+------------------------------------------------------------
+
+        Day: 266
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:06:03
+        
+------------------------------------------------------------
+
+        Day: 267
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:06:27
+        
+------------------------------------------------------------
+
+        Day: 268
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:07:16
+        
+------------------------------------------------------------
+
+        Day: 269
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:07:30
+        
+------------------------------------------------------------
+
+        Day: 270
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:07:48
+        
+------------------------------------------------------------
+
+        Day: 271
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:08:03
+        
+------------------------------------------------------------
+
+        Day: 272
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:08:37
+        
+------------------------------------------------------------
+
+        Day: 273
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:08:55
+        
+------------------------------------------------------------
+
+        Day: 274
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:09:09
+        
+------------------------------------------------------------
+
+        Day: 275
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:26:00
+        
+------------------------------------------------------------
+
+        Day: 276
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:26:14
+        
+------------------------------------------------------------
+
+        Day: 277
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:26:36
+        
+------------------------------------------------------------
+
+        Day: 278
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:26:59
+        
+------------------------------------------------------------
+
+        Day: 279
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:27:19
+        
+------------------------------------------------------------
+
+        Day: 280
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:27:35
+        
+------------------------------------------------------------
+
+        Day: 281
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:27:56
+        
+------------------------------------------------------------
+
+        Day: 282
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:28:15
+        
+------------------------------------------------------------
+
+        Day: 283
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:28:29
+        
+------------------------------------------------------------
+
+        Day: 284
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:28:45
+        
+------------------------------------------------------------
+
+        Day: 285
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:29:00
+        
+------------------------------------------------------------
+
+        Day: 286
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:29:16
+        
+------------------------------------------------------------
+
+        Day: 287
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:29:33
+        
+------------------------------------------------------------
+
+        Day: 288
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:29:47
+        
+------------------------------------------------------------
+
+        Day: 289
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:30:02
+        
+------------------------------------------------------------
+
+        Day: 290
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:30:17
+        
+------------------------------------------------------------
+
+        Day: 291
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:30:32
+        
+------------------------------------------------------------
+
+        Day: 292
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:30:47
+        
+------------------------------------------------------------
+
+        Day: 293
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:31:02
+        
+------------------------------------------------------------
+
+        Day: 294
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:31:17
+        
+------------------------------------------------------------
+
+        Day: 295
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:31:31
+        
+------------------------------------------------------------
+
+        Day: 296
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:31:45
+        
+------------------------------------------------------------
+
+        Day: 297
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:31:58
+        
+------------------------------------------------------------
+
+        Day: 298
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:32:10
+        
+------------------------------------------------------------
+
+        Day: 299
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:32:23
+        
+------------------------------------------------------------
+
+        Day: 300
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:32:36
+        
+------------------------------------------------------------
+
+        Day: 301
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:32:52
+        
+------------------------------------------------------------
+
+        Day: 302
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:33:05
+        
+------------------------------------------------------------
+
+        Day: 303
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:33:18
+        
+------------------------------------------------------------
+
+        Day: 304
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:33:31
+        
+------------------------------------------------------------
+
+        Day: 305
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:33:45
+        
+------------------------------------------------------------
+
+        Day: 306
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:33:57
+        
+------------------------------------------------------------
+
+        Day: 307
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:34:09
+        
+------------------------------------------------------------
+
+        Day: 308
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:34:21
+        
+------------------------------------------------------------
+
+        Day: 309
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:34:34
+        
+------------------------------------------------------------
+
+        Day: 310
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:34:45
+        
+------------------------------------------------------------
+
+        Day: 311
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:34:57
+        
+------------------------------------------------------------
+
+        Day: 312
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:35:10
+        
+------------------------------------------------------------
+
+        Day: 313
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:35:22
+        
+------------------------------------------------------------
+
+        Day: 314
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:35:32
+        
+------------------------------------------------------------
+
+        Day: 315
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:35:43
+        
+------------------------------------------------------------
+
+        Day: 316
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:35:54
+        
+------------------------------------------------------------
+
+        Day: 317
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:36:05
+        
+------------------------------------------------------------
+
+        Day: 318
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:36:15
+        
+------------------------------------------------------------
+
+        Day: 319
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:36:26
+        
+------------------------------------------------------------
+
+        Day: 320
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:36:37
+        
+------------------------------------------------------------
+
+        Day: 321
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:36:47
+        
+------------------------------------------------------------
+
+        Day: 322
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:36:58
+        
+------------------------------------------------------------
+
+        Day: 323
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:37:09
+        
+------------------------------------------------------------
+
+        Day: 324
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:37:19
+        
+------------------------------------------------------------
+
+        Day: 325
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:37:30
+        
+------------------------------------------------------------
+
+        Day: 326
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:37:41
+        
+------------------------------------------------------------
+
+        Day: 327
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:37:51
+        
+------------------------------------------------------------
+
+        Day: 328
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:38:03
+        
+------------------------------------------------------------
+
+        Day: 329
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:38:13
+        
+------------------------------------------------------------
+
+        Day: 330
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:38:24
+        
+------------------------------------------------------------
+
+        Day: 331
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:38:36
+        
+------------------------------------------------------------
+
+        Day: 332
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:38:47
+        
+------------------------------------------------------------
+
+        Day: 333
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:38:58
+        
+------------------------------------------------------------
+
+        Day: 334
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:39:09
+        
+------------------------------------------------------------
+
+        Day: 335
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:39:20
+        
+------------------------------------------------------------
+
+        Day: 336
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:39:31
+        
+------------------------------------------------------------
+
+        Day: 337
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:39:45
+        
+------------------------------------------------------------
+
+        Day: 338
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:39:57
+        
+------------------------------------------------------------
+
+        Day: 339
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:40:08
+        
+------------------------------------------------------------
+
+        Day: 340
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:40:20
+        
+------------------------------------------------------------
+
+        Day: 341
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:57:10
+        
+------------------------------------------------------------
+
+        Day: 342
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:57:22
+        
+------------------------------------------------------------
+
+        Day: 343
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:57:33
+        
+------------------------------------------------------------
+
+        Day: 344
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:57:45
+        
+------------------------------------------------------------
+
+        Day: 345
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:58:02
+        
+------------------------------------------------------------
+
+        Day: 346
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 05:58:16
+        
+------------------------------------------------------------
+
+        Day: 347
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 06:01:58
+        
+------------------------------------------------------------
+
+        Day: 348
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 06:02:10
+        
+------------------------------------------------------------
+
+        Day: 349
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 06:02:24
+        
+------------------------------------------------------------
+
+        Day: 350
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 06:03:11
+        
+------------------------------------------------------------
+
+        Day: 351
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 06:03:25
+        
+------------------------------------------------------------
+
+        Day: 352
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 06:03:37
+        
+------------------------------------------------------------
+
+        Day: 353
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 06:03:50
+        
+------------------------------------------------------------
+
+        Day: 354
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 06:04:01
+        
+------------------------------------------------------------
+
+        Day: 355
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 06:04:13
+        
+------------------------------------------------------------
+
+        Day: 356
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 06:04:29
+        
+------------------------------------------------------------
+
+        Day: 357
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 06:04:42
+        
+------------------------------------------------------------
+
+        Day: 358
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 06:04:54
+        
+------------------------------------------------------------
+
+        Day: 359
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 06:07:39
+        
+------------------------------------------------------------
+
+        Day: 360
+        Horizon: 72 hours
+        Load Percentage: 100.0%
+        PHS Percentage: 10.0%
+        PHS Duration: 4.0 hours
+        Nuclear Unit: 0
+        Model Name: ap1000
+        Solar Capacity: 12000.0
+        Wind Capacity: 8000.0
+        Date of Run: 2025-08-27 06:07:51
+        
+------------------------------------------------------------
+End of run log.

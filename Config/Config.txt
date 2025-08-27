@@ -1,0 +1,32 @@
+
+#all values accessed from cem_results.csv table 
+path=os.getcwd()
+cem_results=pd.read_csv(path+'/data/CEM_results/cem_results.csv')
+
+#capacities of wind, solar, nuclear and storage
+Wind_Cap = int(cem_results.loc[cem_results['resource'] == 'onshore_wind_turbine', 'CAP'].iloc[0])
+Solar_Cap = int(cem_results.loc[cem_results['resource'] == 'solar_photovoltaic', 'CAP'].iloc[0])
+Nuclear_Cap = int(cem_results.loc[cem_results['resource'] == 'ap1000', 'CAP'].iloc[0])
+PHS_Cap = int(cem_results.loc[cem_results['resource'] == 'hydroelectric_pumped_storage', 'CAP'].iloc[0])
+
+# Config Parameters [DONT CHANGE] 
+horizon = 72        #time period of UC dispatch    
+load_percentage = 1 
+PHS_percentage = 0.1
+model_name = 'ap1000'
+VRE_percentage = 0.2
+mAP300 = 0.001137
+mAP100 = 0.001137
+q = 0.11
+nuclear_unit = 0
+
+
+#Can change these parameters  [CONFIGURABLE] 
+pmin=0.8              #minimum generation percentages for nuclear reactors 
+PHS_duration=4        #battery duration
+cost_frac=1           #fraction of startup/shutdown cost for nuclear. 1 means 100%
+k_init_ap1000=1.205   #initial k_eff value
+mAP1000=0.001137      # degradation rate
+start_day=0           #dispatch init period [3 day blocks]
+end_day=2             #dispatch end period  [3 day blocks]
+refuel_span=10        #span of refueling outage
