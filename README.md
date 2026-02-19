@@ -106,6 +106,6 @@ Simply pull the repository and you should be ready with all data and code to run
 	urldate = {2025-08-12},
 	journal = {arXiv},
 	author = {Choudhury, S. and Davidson, M. and Tynan, G.,
- 	title = {Unit {Commitment} {Framework} for {Nuclear} {Reactors} with {Reactivity} {Decline}}
+ 	title = {Physics-Informed Unit Commitment Framework for Nuclear Reactors}
 }
 ```
